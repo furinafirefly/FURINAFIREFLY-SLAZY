@@ -1,0 +1,20 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "translucent",
+			"combos" : 
+			{
+				"VERSION" : 2
+			},
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "genericimage2",
+			"textures" : 
+			[
+				"furina-genshin-impact-video-game-art-4k-wallpaper-uhdpaper.com-18@1@m"
+			]
+		}
+	]
+}
